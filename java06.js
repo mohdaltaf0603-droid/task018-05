@@ -118,8 +118,8 @@ console.log(cities[2]);
 
 // 35. Create one object with employee details and print employee name.
 let employee = {
-  name: "Rahul",
-  age: 28,
+  name: "Altaf",
+  age: 26,
   department: "IT"
 };
 console.log(employee.name);
